@@ -1,26 +1,32 @@
 # Mechanical Design Portfolio – Fırat Karadağ
 
-This repository showcases mechanical design projects developed in SolidWorks with a focus on manufacturability and production logic.
+This portfolio presents mechanical design projects developed in SolidWorks with emphasis on manufacturability, technical drawing, and production-oriented thinking.
 
 ## Projects
 
-### 1. T-Elbow Core System
-- Multi-part mechanical core structure
-- Designed for manufacturable casting support
-- Includes core box and production drawing
+### T-Elbow Core System
+A multi-part core structure designed for casting applications.
+Includes:
+- Core geometry
+- Core box design
+- Technical drawing
 
-### 2. Bearing Housing
-- Mechanical support component
-- Designed for load-bearing applications
-- Includes production drawing
+### Bearing Housing
+A load-support mechanical component designed for structural stability.
+Includes:
+- Housing geometry
+- Production drawing
 
-### 3. Cotter Pin System
-- Multi-component mechanical fastening system
-- Includes manufacturing model and core structures
+### Cotter Pin System
+A multi-component fastening system including manufacturing models.
+Demonstrates:
+- Mechanical fit logic
+- Component relationships
+- Manufacturing awareness
 
 ## Skills Demonstrated
 - SolidWorks part modeling
-- Technical drawing creation
-- Core & mold component logic
+- Technical drawing generation
+- Casting core logic
 - Manufacturing-oriented design
-
+- Mechanical component structuring
